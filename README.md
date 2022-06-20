@@ -10,6 +10,6 @@ The website has the following specification -
 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
-Website Link --> https://sampxyz.000webhostapp.com/
+Website Link --> https://sysankraj.000webhostapp.com/index.html
 
 The website is hosted on 000webhost. Since it is a free hosting service, kindly refresh the page in case the tables are not loading properly due to network traffic.
