@@ -1,0 +1,36 @@
+.social-icons{
+  text-align: center;
+  background-color:#8127d582;
+  width:17rem;
+  border-radius: 2rem;
+  margin-top:8rem;
+  vertical-align: middle;
+  padding:10px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+.social-icons li{
+  display: inline; 
+  padding: 0.5rem; 
+}
+
+.github{
+  color: #1477da!important;
+}
+    
+.linkedin{
+  color: #14da84!important;
+}
+    
+.instagram{ 
+  color: #da142e!important;
+}
+    
+.gmail{
+  color: #1477da!important;
+}
+    
+/* .facebook{
+  color: #1771e6!important;
+} */
